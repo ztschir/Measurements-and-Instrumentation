@@ -1,4 +1,4 @@
 Measurements-and-Instrumentation
 ================================
 
-Measurement and Instrumentation class material
+My Measurements and Instrumentation labs 
